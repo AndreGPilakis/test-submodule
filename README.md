@@ -1,3 +1,3 @@
 # test-submodule
 
-This is a release 
+This is text from an old commit
