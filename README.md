@@ -1,3 +1,3 @@
 # test-submodule
 
-This is text from a new commit
+This is text from commit with tag 'myextracommit'
