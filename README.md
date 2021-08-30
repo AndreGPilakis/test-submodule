@@ -1,3 +1,3 @@
 # test-submodule
 
-This is sampletext..
+This is sampletext changed on monday.
